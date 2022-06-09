@@ -1,0 +1,6 @@
+import tkinter as tk
+
+finder_file = open("C:\\Users\\C605\\Desktop\\pypye.txt")
+reader_file= finder_file.read()
+
+print(reader_file)
